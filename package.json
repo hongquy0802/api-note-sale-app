@@ -1,0 +1,18 @@
+{
+  "name": "api-note-sale-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/hongquy0802/api-note-sale-app.git"
+  },
+  "author": "Truong Hong Quy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
